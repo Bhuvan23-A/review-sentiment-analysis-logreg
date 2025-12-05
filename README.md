@@ -62,6 +62,18 @@ review-sentiment-analysis-logreg/
 │── Reviews.csv (optional, if included)  
 └── README.md  
 
+## 📥 Dataset Download
+
+The Amazon Reviews dataset used in this project is too large for GitHub 
+(Reviews.csv = 284 MB, Reviews.zip = 114 MB).
+
+Download the dataset from Google Drive:
+
+🔗 https://drive.google.com/file/d/1Ake6cZ-zbp-b2sYa2FmiDnw4FtsrkyWB/view?usp=sharing
+
+Extract `Reviews.zip` and place `Reviews.csv` in the project folder 
+before running the notebook.
+
 ## ▶️ How to Run
 1. Clone the repo:
    git clone https://github.com/<your-username>/review-sentiment-analysis-logreg.git
